@@ -91,16 +91,14 @@ export default function page() {
       <div className=" border-t p-3 flex md:flex-row flex-col gap-10 items-center">
         <div>
           <p className="mt-5">
-            I'm a 21-year-old full-stack developer who loves building web
-            applications. I started coding when I was 19 and have been hooked
-            ever since. I use Next.js, TypeScript, Prisma, Node.js and other
-            technologies to create strong and scalable projects. I love is
-            solving problems and making exciting applications.
+            I'm a highly curious and ambitious Robotics Engineering student with a strong passion for Astronomy, Radar Systems, and Web Development. 
+            I thrive on solving Complex Technical Challenges, from Micro-Doppler Radar Classification to Model Simulations and Coding. 
+            With a keen eye for UI/UX, I blend innovation with practicality, excelling in Coding, Mechatronics, and Project-Based Problem-Solving.
           </p>
           <p className="mt-5 mb-10">
-            Beyond coding, I love hiking, swimming, and playing video games. My
-            enthusiasm for both programming and outdoor activities drives me to
-            balance my time between tech projects and exploring nature.
+            Beyond the Technical realm, I love hiking, swimming, and playing video games. My
+            enthusiasm for Programming, Robotics and Outdoor Activities drives me to
+            balance my time between Tech Projects and Exploring Nature.
           </p>
 
           <h1 className="font-bold text-3xl mb-2">My Tech stack</h1>
@@ -128,7 +126,7 @@ export default function page() {
         />
       </div>
 
-      <h1 className="font-bold text-3xl mb-2 mt-8 ml-2 ">About this website</h1>
+      <h1 className="font-bold text-3xl mb-2 mt-8 ml-2 ">About this Website</h1>
       <div className="border-t p-3">
         <h1 className="p-2">Next js</h1>
         <h1 className="p-2">Typescript</h1>
